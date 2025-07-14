@@ -1,0 +1,14 @@
+#Streamlit: Web framework to build the interactive UI
+streamlit==1.26.0
+
+#PyMuPDF (fitz): Extract text from PDF pages
+PyMuPDF==1.23.6
+
+#Ollama Python SDK: Interface with local LLMs like TinyLlama
+ollama==0.1.7
+
+#dotenv: Load environment variables from a .env file
+python-dotenv==1.0.1
+
+#Requests: For making HTTP requests (used if switching to Ollama's REST API)
+requests==2.32.3
